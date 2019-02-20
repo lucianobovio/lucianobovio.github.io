@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 ### Que desarrollo:
-  #### Aplicaciones web con web2py
+  *Aplicaciones web con web2py
       
 
 ### Contact me
