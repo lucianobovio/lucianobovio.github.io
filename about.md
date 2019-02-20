@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-### Que desarrollo
-  # Aplicaciones web con web2py
+### Que desarrollo:
+  #### Aplicaciones web con web2py
       
 
 ### Contact me
